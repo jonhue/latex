@@ -3,6 +3,8 @@ layout: primer_without_heading
 title: Publicly share LaTeX sources
 ---
 
+# Deprecated! Use [PubTeX](https://jonhue.github.io/pubtex) instead.
+
 # Publicly share LaTeX sources
 
 1. Clone this template
